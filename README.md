@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jessmaio
 - 🚀 I’m interested in Astronomy, Videogames & Science 
-- 🌱 I’m currently learning Web Development and German 🇩🇪
-- 👀 I’m looking to collaborate on small or big projects, even no-pay, to build a portfolio and experience.
+- 🌱 I’m currently learning Java and SQL
+- 👀 I’m looking to collaborate on small or big projects, to build up experience.
 - 📫 How to reach me: jess.maio@hotmail.com
 - 🏳️‍🌈 Pronouns: She/her
-- ⚡ Fun fact: I secretly still wish to become an international secret agent or an Astronaut
+- 🇮🇹🇵🇪 Fluent/Native: Italian, Spanish, English
+- Basic/in progress: French, German, Japanese
+
