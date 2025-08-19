@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jessmaio
-- 🚀 I’m interested in Astronomy, Videogames & Science 
-- 🌱 I’m currently learning SQL
-- 👀 I’m looking to collaborate on small or big projects, to build up experience.
+- 🚀 Interests: Astronomy, Videogames, Science, Tech
+- 🌱 I’m currently learning SQL and German
+- 👾 Java, C, Python, JavaFX, HTML, CSS, JavaScript, React-Vue, Risc-V
+- 👀 Looking forward to collaborating on small or big projects
 - 📫 How to reach me: jess.maio@hotmail.com
 - 🏳️‍🌈 Pronouns: She/her
 - 🇮🇹🇵🇪 Fluent/Native: Italian, Spanish, English
-  Currently learing German 
 
