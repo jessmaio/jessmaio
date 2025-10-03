@@ -6,4 +6,5 @@
 - 📫 How to reach me: jess.maio@hotmail.com
 - 🏳️‍🌈 Pronouns: She/her
 - 🇮🇹🇵🇪 Fluent/Native: Italian, Spanish, English
+- 📍 Ravensburg, Germany
 
